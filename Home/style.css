@@ -1,0 +1,65 @@
+body{
+	background: #222;
+}
+
+.container{
+	//background: #dadafa;
+}
+
+.centered{
+	text-align: center;
+}
+.navbar{
+	
+}
+p{
+	text-align: justify;
+}
+#image, #description{
+	
+}
+.first{
+	margin-top: 20px;
+}
+
+.wid{
+	height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+#img1{
+	animation-delay: 0.2s;
+}
+#img2{
+	animation-delay: .4s;
+}
+#img3{
+	animation-delay: .6s;
+}
+#img4{
+	animation-delay: .8s;
+}	
+#image,#description{
+	animation-delay: s;
+}
+#description{
+	margin-top: 50px;
+}
+.bgr{
+	opacity:50%;
+	//background: #12181A;
+	//color: #fff;
+}
+.jumbotron{
+	padding: 30px;
+}
+.shadow{
+	box-shadow: 0px 0px 8px 0px #aaa;	
+}
+.marg{
+	margin-top:20px;
+}
+.spe{
+	width:30%;
+}
